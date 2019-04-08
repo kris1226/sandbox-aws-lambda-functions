@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sandbox-helloclj-hi/helloclj.iml" filepath="$PROJECT_DIR$/sandbox-helloclj-hi/helloclj.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sandbox-aws-lambda-functions.iml" filepath="$PROJECT_DIR$/.idea/sandbox-aws-lambda-functions.iml" />
     </modules>
   </component>
