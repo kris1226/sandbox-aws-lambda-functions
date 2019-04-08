@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b2a3819-fd4e-491b-9af1-45b3a727cde9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/clojure/example/hello.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clojure/trafficshapping/stackaffinity/queue/draining/detect.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clojure/s3/read_traffic_shapping_rules.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/example/MyEvent.java" />
+        <option value="$PROJECT_DIR$/src/hello.clj" />
+        <option value="$PROJECT_DIR$/src/clojure/example/hello.clj" />
+        <option value="$PROJECT_DIR$/src/clojure/trafficshapping/stackaffinity/queue/draining/detect/clj.java" />
+        <option value="$PROJECT_DIR$/src/clojure/trafficshapping/stackaffinity/queue/draining/detect.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/clojure/s3/read_traffic_shapping_rules.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1169" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lambda-clj-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-lambda-sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda-clj-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-lambda-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda-clj-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-lambda-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda-clj-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-lambda-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+              <item name="draining" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554483882693" />
+    <property name="cursive.last.file.extension.C\:/Users/klinds098/development/clojure/clojure-lambda-sample/src/clojure" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42988506" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\klinds098\development\clojure\clojure-lambda-sample\src\clojure\example" />
+      <recent name="C:\Users\klinds098\development\clojure\clojure-lambda-sample\src\clojure" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1554494170868">{:repl-history {:ide [], :local [{:command &quot;(-handler \&quot;Kris\&quot;)&quot;, :offset 17, :ns &quot;hello&quot;} {:command &quot;(-handler { \&quot;a\&quot;:1, \&quot;b\&quot;:2 })&quot;, :offset 27, :ns &quot;hello&quot;} {:command &quot;(-handler {\n           \&quot;key1\&quot;: \&quot;value1\&quot;,\n                 \&quot;key2\&quot;: \&quot;value2\&quot;,\n           \&quot;key3\&quot;: \&quot;value3\&quot;\n           })&quot;, :offset 117, :ns &quot;hello&quot;} {:command &quot;(-handler {\&quot;key1\&quot;: \&quot;value1\&quot;, \&quot;key2\&quot;: \&quot;value2\&quot;, \&quot;key3\&quot;: \&quot;value3\&quot;})&quot;, :offset 65, :ns &quot;hello&quot;} {:command &quot;(-handler { \&quot;a\&quot;: \&quot;1\&quot;, \&quot;b\&quot;: \&quot;2\&quot; })&quot;, :offset 33, :ns &quot;hello&quot;} {:command &quot;(str 1)&quot;, :offset 7, :ns &quot;hello&quot;} {:command &quot;(str \&quot;1\&quot;)&quot;, :offset 9, :ns &quot;hello&quot;} {:command &quot;(-handler { \&quot;a\&quot;:\&quot;1\&quot;, \&quot;b\&quot;:\&quot;2\&quot; })&quot;, :offset 31, :ns &quot;hello&quot;} {:command &quot;(-handler { \&quot;a\&quot;:Kris, \&quot;b\&quot;:Lindsey })&quot;, :offset 36, :ns &quot;hello&quot;} {:command &quot;(-handler { \&quot;a\&quot;: \&quot;Kris\&quot;, \&quot;b\&quot;: \&quot;Lindsey\&quot; })&quot;, :offset 42, :ns &quot;hello&quot;} {:command &quot;(str { \&quot;a\&quot;: \&quot;Kris\&quot;, \&quot;b\&quot;: \&quot;Lindsey\&quot; })&quot;, :offset 37, :ns &quot;hello&quot;} {:command &quot;(json/write-str { \&quot;a\&quot;:\&quot;1\&quot;, \&quot;b\&quot;:\&quot;2\&quot; })&quot;, :offset 37, :ns &quot;hello&quot;} {:command &quot;(json/write-str {\n                 \&quot;key1\&quot;: \&quot;value1\&quot;,\n                       \&quot;key2\&quot;: \&quot;value2\&quot;,\n                 \&quot;key3\&quot;: \&quot;value3\&quot;\n                 })&quot;, :offset 147, :ns &quot;hello&quot;} {:command &quot;(json/read-str {\n                 \&quot;key1\&quot;: \&quot;value1\&quot;,\n                       \&quot;key2\&quot;: \&quot;value2\&quot;,\n                 \&quot;key3\&quot;: \&quot;value3\&quot;\n                 })&quot;, :offset 146, :ns &quot;hello&quot;} {:command &quot;(json/read-str  {\&quot;key1\&quot;: \&quot;value1\&quot;, \&quot;key2\&quot;: \&quot;value2\&quot;, \&quot;key3\&quot;: \&quot;value3\&quot;})&quot;, :offset 71, :ns &quot;hello&quot;} {:command &quot;(json/write-str  {\&quot;key1\&quot;: \&quot;value1\&quot;, \&quot;key2\&quot;: \&quot;value2\&quot;, \&quot;key3\&quot;: \&quot;value3\&quot;})&quot;, :offset 72, :ns &quot;hello&quot;} {:command &quot;(json/write-str   \&quot;{\\\&quot;key1\\\&quot;: \\\&quot;value1\\\&quot;, \\\&quot;key2\\\&quot;: \\\&quot;value2\\\&quot;, \\\&quot;key3\\\&quot;: \\\&quot;value3\\\&quot;}\&quot;)&quot;, :offset 87, :ns &quot;hello&quot;} {:command &quot;(ns hello)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(ns example.hello)&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(example.MyEvent.)&quot;, :offset 18, :ns &quot;example.hello&quot;} {:command &quot;(doto example.MyEvent. .setLastName \&quot;Lindsey\&quot;)&quot;, :offset 46, :ns &quot;example.hello&quot;} {:command &quot;(-&gt; example.MyEvent. .setLastName \&quot;Lindsey\&quot;)&quot;, :offset 44, :ns &quot;example.hello&quot;} {:command &quot;(-&gt; example.MyEvent)&quot;, :offset 20, :ns &quot;example.hello&quot;} {:command &quot;(-&gt; example.MyEvent.)&quot;, :offset 21, :ns &quot;example.hello&quot;} {:command &quot;(-&gt; example.MyEvent .setLastName \&quot;Lindsey\&quot;)&quot;, :offset 43, :ns &quot;example.hello&quot;} {:command &quot;(-&gt; example.MyEvent .setLastName)&quot;, :offset 33, :ns &quot;example.hello&quot;} {:command &quot;(import example.MyEvent)&quot;, :offset 24, :ns &quot;example.hello&quot;} {:command &quot;(MyEvent.)&quot;, :offset 10, :ns &quot;example.hello&quot;} {:command &quot;(.setLastName \&quot;Lindsey\&quot; MyEvent.)&quot;, :offset 33, :ns &quot;example.hello&quot;} {:command &quot;(MyEvent. .setLastName \&quot;Lindsey\&quot;)&quot;, :offset 33, :ns &quot;example.hello&quot;} {:command &quot;(MyEvent. (.setLastName \&quot;Lindsey\&quot;))&quot;, :offset 35, :ns &quot;example.hello&quot;} {:command &quot;(doto (MyEvent.) (.setLastName \&quot;Lindsey\&quot;))&quot;, :offset 42, :ns &quot;example.hello&quot;} {:command &quot; (str (doto (MyEvent.) (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 49, :ns &quot;example.hello&quot;} {:command &quot; (println (doto (MyEvent.) (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 53, :ns &quot;example.hello&quot;} {:command &quot;(let [e MyEvent.]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)) e)&quot;, :offset 54, :ns &quot;example.hello&quot;} {:command &quot;(let [e MyEvent.]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 52, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      str e))&quot;, :offset 66, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      (str e (.getLastName))))&quot;, :offset 83, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 54, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e .getLastName))&quot;, :offset 75, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e (.getLastName)))&quot;, :offset 77, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.getLastName)\n    e (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    (e .getLastName)\n    e (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;)\n    (e .getLastName)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;)))&quot;, :offset 58, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;) str e))&quot;, :offset 64, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (str e))&quot;, :offset 68, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (str e .getLastName))&quot;, :offset 81, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (e .getLastName))&quot;, :offset 77, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (e (.getLastName)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  ((e .getLastName)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  ((.getLastName e)))&quot;, :offset 79, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (.getLastName e))&quot;, :offset 77, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e (.setFirstName \&quot;Kristopher\&quot;))\n  (-&gt; e .getLastName)\n      e .getFileName)&quot;, :offset 134, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e (.setFirstName \&quot;Kristopher\&quot;))\n  (-&gt; e .getLastName)\n      e .getFirstName)&quot;, :offset 135, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;)\n      (.setFirstName \&quot;Kristopher\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 115, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt;\n    e (.setLastName \&quot;Lindsey\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 80, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e (.setFirstName \&quot;Kristopher\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 113, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setLastName \&quot;Lindsey\&quot;)\n      e (.setFirstName \&quot;Kristopher\&quot;)\n      e)\n  (-&gt; e .getLastName))&quot;, :offset 121, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setFirstName \&quot;Kristopher\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 80, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e (.setFirstName \&quot;Kristopher\&quot; .setLastName \&quot;\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 96, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e .setFirstName \&quot;Kristopher\&quot;)\n  (-&gt; e .getLastName))&quot;, :offset 78, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e .setFirstName)\n  (-&gt; e .getLastName))&quot;, :offset 65, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e .setFirstName (\&quot;\&quot;))\n  (-&gt; e .getLastName))&quot;, :offset 70, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; .setFirstName )\n  (-&gt; e .getLastName))&quot;, :offset 64, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; .setFirstName \&quot;\&quot;)\n  (-&gt; e .getLastName))&quot;, :offset 66, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.)]\n  (-&gt; e .setFirstName \&quot;\&quot;)\n  (-&gt; e .getLastName))&quot;, :offset 10} {:command &quot;(let [e {:first-name(MyEvent.)} ]\n  (-&gt; e :first-name .setFirstName \&quot;Kris\&quot;)\n  (-&gt; e .getFirstName))&quot;, :offset 99, :ns &quot;example.hello&quot;} {:command &quot;(let [e {:first-name(MyEvent.)} ]\n  (-&gt; e (:first-name .setFirstName \&quot;Kris\&quot;))\n  (-&gt; e .getFirstName))&quot;, :offset 101, :ns &quot;example.hello&quot;} {:command &quot;(let [e {:first-name (MyEvent.)} ]\n  (-&gt; e (:first-name .setFirstName \&quot;Kris\&quot;))\n  (-&gt; e .getFirstName))&quot;, :offset 102, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.) ]\n  (-&gt; e (.setFirstName \&quot;Kris\&quot;))\n  (-&gt; e .getFirstName))&quot;, :offset 76, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.) ]\n  (-&gt; e (.setFirstName \&quot;Kris\&quot;) e (.setLastName \&quot;Lindsey\&quot;))\n  (-&gt; e .getFirstName))&quot;, :offset 103, :ns &quot;example.hello&quot;} {:command &quot;(let [e (MyEvent.) ]\n  (-&gt; e (.setFirstName \&quot;Kris\&quot;) (.setLastName \&quot;Lindsey\&quot;))\n  (-&gt; e .getFirstName))&quot;, :offset 101, :ns &quot;example.hello&quot;} {:command &quot;(ns s3.read-traffic-shapping-rules)&quot;, :offset 35, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clojure repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="lambda-clj-examples" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b2a3819-fd4e-491b-9af1-45b3a727cde9" name="Default Changelist" comment="" />
+      <created>1554383065273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554383065273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26558605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917705" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Leiningen" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info active="true" anchor="right" id="REPL" order="9" side_tool="true" visible="true" weight="0.42013422" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/example/MyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojure/trafficshapping/stackaffinity/queue/draining/detect/clj.java" />
+    <entry file="file://$PROJECT_DIR$/src/clojure/s3/read_traffic_shapping_rules.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojure/trafficshapping/stackaffinity/queue/draining/detect.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojure/example/hello.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lambda-clj-examples</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Leiningen: clojure-complete:0.2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
