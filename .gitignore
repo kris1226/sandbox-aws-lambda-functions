@@ -13,3 +13,6 @@ target/
 .lein-failures
 .nrepl-port
 .cpcache/
+../.idea/*
+/.idea
+.idea/
